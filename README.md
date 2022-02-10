@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @URF-analyst
-- 👀 I’m interested in Python, django, Remote sensing and spatial technology
-- 🌱 I’m currently learning Django, react, GIS and soil sciences
+- 👀 I’m interested in Python, django, soil science, Machine learning Remote sensing, and spatial technology
+- 🌱 I’m currently learning Django, react, ML, GIS and researching soils of arid regions.
 - 💞️ I’m looking to collaborate on GIS in digital soil mapping, django spatial apps
 - 📫 Reach me aaurfanalyst@gmail.com
 
